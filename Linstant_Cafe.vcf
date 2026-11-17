@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:L'instant Café
+ORG:L'instant Café
+CATEGORIES:Coffee Shop
+NOTE:Coffee Shop
+TEL;TYPE=WORK,CELL:+23059055400
+EMAIL;TYPE=WORK,INTERNET:linstantcafe125@gmail.com
+item1.URL:https://www.instagram.com/linstantcafe.mu
+item1.X-ABLabel:Instagram
+item2.URL:https://www.tiktok.com/@linstantcafe.mu
+item2.X-ABLabel:TikTok
+item3.URL:https://www.facebook.com/share/1DvdFRhmEU/?mibextid=wwXIfr
+item3.X-ABLabel:Facebook
+END:VCARD
